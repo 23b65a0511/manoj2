@@ -3,4 +3,4 @@ gunicorn
 numpy
 opencv-python-headless
 joblib
-tensorflow
+tensorflow-cpu
